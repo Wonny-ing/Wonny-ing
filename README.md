@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=aae2bd&text=%20Wonny%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 ## ✨Tech Stack✨
-<img src="https://img.shields.io/badge/HTML5-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=#E34F26&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=aae2bd)
 <!--
