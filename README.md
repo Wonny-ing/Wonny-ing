@@ -1,5 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=C5E8D6&text=%20Wonny's Github%20%20&height=200&fontSize=90&fontColor=ffffff)
 
+## ✨Tech Stack✨
+<img src="https://img.shields.io/badge/HTML5-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
 <!--
 **Wonny-ing/Wonny-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
