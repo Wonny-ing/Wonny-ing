@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=C5E8D6&text=%20Wonny's Github%20%20&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C5E8D6&text=%20Wonny%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 ## ✨Tech Stack✨
 <img src="https://img.shields.io/badge/HTML5-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
