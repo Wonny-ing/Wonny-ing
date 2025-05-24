@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3DDC84&text=%20Wonny%20%20&height=200&fontSize=90&fontColor=ffffff)
-
 👋 Hi, there! I'm Front-end devloper
 
 ### 💪Skills
